@@ -1,5 +1,5 @@
 # InternApp
-Fetch Information from a url.
+Fetch Information from an url.
 Display it on users Phone.
 ####Required#####
 Internet connectivity in phone.
